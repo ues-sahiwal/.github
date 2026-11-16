@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ UOSahiwal ENTREPRENEURSHIP SOCIETY (UES) 
+# 🏛️ UES — UOSahiwal Entrepreneurship Society
 ### UNIVERSITY OF SAHIWAL
 
 [![Community](https://img.shields.io/badge/Community-Student--Led-0969da?style=for-the-badge&logo=github)](https://github.com/uos-entrepreneurship)
