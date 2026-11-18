@@ -4,7 +4,6 @@
 [![Tagline](https://img.shields.io/badge/Tagline-Empowering%20Student%20Founders-F5B301?style=flat&labelColor=0A1F44&color=F5B301)](https://github.com/ues-sahiwal)
 [![Handle](https://img.shields.io/badge/Instagram-@ues.sahiwal-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ues.sahiwal)
 [![Campus](https://img.shields.io/badge/University-University%20of%20Sahiwal-0A1F44?style=flat)](https://uosahiwal.edu.pk)
-[![Status](https://img.shields.io/badge/Status-Founding%20Cohort%202026-10B981?style=flat)]()
 
 Welcome to the central `.github` repository for the **UOSahiwal Entrepreneurship Society (UES)** at the **University of Sahiwal**, Pakistan.
 
@@ -33,6 +32,4 @@ Any updates pushed to `main` in this repository immediately reflect on the publi
 ### Organization Links & Channels
 - **GitHub Organization:** [https://github.com/ues-sahiwal](https://github.com/ues-sahiwal)
 - **Instagram Handle:** [@ues.sahiwal](https://instagram.com/ues.sahiwal)
-- **Official Web Portal:** [https://github.com/ues-sahiwal/website](https://github.com/ues-sahiwal/website)
-- **Brand Assets Vault:** [https://github.com/ues-sahiwal/ues-brand-assets](https://github.com/ues-sahiwal/ues-brand-assets)
 - **President:** Ashar Iftikhar ([ashar.iftikhar@uosahiwal.edu.pk](mailto:ashar.iftikhar@uosahiwal.edu.pk))
