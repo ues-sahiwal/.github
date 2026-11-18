@@ -1,83 +1,105 @@
 <div align="center">
 
-# ðŸ^O›ï¸^O UES â€” UOSahiwal Entrepreneurship Society
+<img src="https://raw.githubusercontent.com/ues-sahiwal/ues-brand-assets/main/02-brand/ues-repo-banner.svg" alt="UOSahiwal Entrepreneurship Society (UES)" width="100%" />
 
-### UNIVERSITY OF SAHIWAL Â· SAHIWAL, PUNJAB, PAKISTAN
+<br/><br/>
 
-**The official student-led entrepreneurship, innovation & technology society of the University of Sahiwal.**
+[![UES Identity](https://img.shields.io/badge/UES-UOSahiwal_Entrepreneurship_Society-0A1F44?style=for-the-badge&logoColor=F5B301)](https://github.com/ues-sahiwal)
+[![University](https://img.shields.io/badge/University-University_of_Sahiwal-0A1F44?style=for-the-badge)](https://uosahiwal.edu.pk)
+[![Community](https://img.shields.io/badge/Community-Student--Led-0A1F44?style=for-the-badge&logo=github)](https://github.com/ues-sahiwal)
+[![Tagline](https://img.shields.io/badge/Tagline-Empowering%20Student%20Founders-F5B301?style=for-the-badge&labelColor=0A1F44&color=F5B301)](https://github.com/ues-sahiwal)
+[![Instagram](https://img.shields.io/badge/Instagram-@ues.sahiwal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ues.sahiwal)
+[![Brand Vault](https://img.shields.io/badge/Brand_Vault-Production_Ready-F5B301?style=for-the-badge&labelColor=0A1F44&color=F5B301)](https://github.com/ues-sahiwal/ues-brand-assets)
 
-[![Organization](https://img.shields.io/badge/GitHub-ues--sahiwal-181717?style=for-the-badge&logo=github)](https://github.com/ues-sahiwal)
-[![University](https://img.shields.io/badge/University-Sahiwal-1f883d?style=for-the-badge&logo=graduation-cap)](https://github.com/ues-sahiwal)
-[![Focus](https://img.shields.io/badge/Focus-Entrepreneurship%20â€¢%20Innovation%20â€¢%20Technology-d97706?style=for-the-badge)](https://github.com/ues-sahiwal)
+<br/>
 
-<img src="logo/banner.svg" alt="UES — UOSahiwal Entrepreneurship Society banner" width="100%" />
-
-**THINK. BUILD. LAUNCH.** â€” *Entrepreneurship â€¢ Innovation â€¢ Technology*
+**ENTREPRENEURSHIP • INNOVATION • TECHNOLOGY**  
+*Empowering Student Founders — Where Ideas Become Ventures.*  
+`Think. Build. Launch.`
 
 ---
 
-**UES** is a cross-disciplinary, student-led entrepreneurship and innovation community at the **University of Sahiwal** in Punjab, Pakistan. We unite students from Computing, Management Sciences, and Humanities with the modern tech, venture, and business ecosystem.
+**The premier cross-disciplinary, student-led entrepreneurship & venture ecosystem at the University of Sahiwal.**  
+Connecting ambitious students from all academic departments with modern technology, startup methodologies, and global founder networks.
 
-[ðŸŽ¯ Mission](#-our-mission) â€¢
-[ðŸ^O›ï¸^O What We Do](#-what-we-do) â€¢
-[ðŸ“‹ Flagship Programs](#-flagship-programs) â€¢
-[ðŸ—ºï¸^O Roadmap](#-roadmap-20262027) â€¢
-[ðŸ¤^] Roles](#-community-roles) â€¢
-[â^]“ FAQ](#-faq) â€¢
-[ðŸš€ Get Involved](#-get-involved)
+<br/>
+
+[🎯 Mission & Vision](#-mission--vision) •
+[🏛️ Core Pillars](#-core-pillars) •
+[📦 Repositories](#-organization-repositories) •
+[📋 Flagship Programs](#-flagship-programs--events) •
+[🗺️ Roadmap](#-roadmap-20262027) •
+[🤝 Leadership](#-leadership--governance) •
+[🚀 Get Involved](#-get-involved)
 
 </div>
 
 ---
 
-## ðŸŽ¯ Our Mission
+## 🎯 Mission & Vision
 
-> *"To empower students across disciplines to develop entrepreneurial mindsets, explore emerging technologies, transform ideas into meaningful ventures, and build the skills and connections needed to create real-world impact."*
+> **Our Mission:**  
+> *"To empower student founders at the University of Sahiwal by providing the resources, technical infrastructure, mentorship, and community needed to build real, venture-scale solutions on campus."*
+
+> **Our Vision:**  
+> *"To cultivate the leading university entrepreneurship ecosystem in Pakistan, ensuring every student with an idea has a verified pathway to build, fund, and launch it."*
 
 ---
 
-## ðŸ^O›ï¸^O What We Do
+## 🏛️ Core Pillars
 
-We believe innovation doesn't belong to a single department. Whether you study **Business Administration**, **Computer Science**, **English**, **Economics**, or **Mathematics**, there is a place for you to build and lead.
+Innovation thrives at the intersection of diverse disciplines. Whether your foundation is in **Computer Science**, **Business Administration**, **Economics**, **Mathematics**, or **English**, UES provides the framework and platform to build, lead, and scale.
 
-| Pillar | Focus | What Members Achieve |
+| Pillar | Focus Area | What Members Achieve |
 | :---: | :--- | :--- |
-| ðŸš€ | **Entrepreneurship** | **Start & Grow Businesses**<br/>Turn raw concepts into validated business models, pitch decks, and viable ventures. |
-| ðŸ’¡ | **Innovation** | **Solve Problems & Develop Ideas**<br/>Apply design thinking, agile execution, and rapid prototyping to campus and regional challenges. |
-| ðŸ¤– | **Technology** | **Explore AI, Software & Emerging Tech**<br/>Demystify code, version control, AI systems, full-stack tools, and digital product workflows. |
-| ðŸŽ¤ | **Professional Skills** | **Communication, Sales & Leadership**<br/>Master public speaking, client negotiation, team management, and professional networking. |
-| ðŸŒ^P | **Opportunities** | **Connect with the Ecosystem**<br/>Bridge the gap with industry founders, alumni mentors, investor networks, and global programs. |
+| 🚀 | **Entrepreneurship** | **Venture Incubation & Commercialization**<br/>Transform raw concepts into validated business models, customer discovery loops, financial models, and investor pitch decks. |
+| 💡 | **Innovation** | **Problem Solving & Design Thinking**<br/>Apply agile execution and rapid prototyping to solve real challenges within campus, regional commerce, and national technology sectors. |
+| 🤖 | **Technology** | **Modern Software & Emerging Tech**<br/>Bridge theory with practice: Git version control, collaborative GitHub workflows, AI architectures, and full-stack web applications. |
+| 🎤 | **Professional Skills** | **Executive Communication & Leadership**<br/>Master public speaking, client negotiation, team leadership, cross-faculty coordination, and large-scale event operations. |
+| 🌐 | **Ecosystem Access** | **Mentorship & Industry Connections**<br/>Connect directly with proven startup founders, remote tech architects, university alumni, and venture capital networks. |
 
 ---
 
-## ðŸ“‹ Flagship Programs
+## 📦 Organization Repositories
+
+Explore the open-source infrastructure, design systems, and public codebases powering the UES ecosystem:
+
+| Repository | Description | Primary Stack | Direct Link |
+| :--- | :--- | :--- | :---: |
+| [`.github`](https://github.com/ues-sahiwal/.github) | **Organization Central Hub** — Public profile view, community health standards, contributing guidelines, and GitHub Campus Expert blueprint. | Markdown, GitHub Standards | [Explore ➔](https://github.com/ues-sahiwal/.github) |
+| [`website`](https://github.com/ues-sahiwal/website) | **Official Web Portal** — Accelerator-grade web presence featuring fluid Lenis inertia scrolling, GSAP choreography, and Astro islands. | Astro 5.4, React 19, Tailwind CSS v4, GSAP | [Explore ➔](https://github.com/ues-sahiwal/website) |
+| [`ues-brand-assets`](https://github.com/ues-sahiwal/ues-brand-assets) | **Brand & Visual Identity Vault** — Scalable SVG vector suite, color system (`#0A1F44` & `#F5B301`), pitch decks, merchandise mockups, and event signage. | SVG Vectors, Brand Standards, Assets | [Explore ➔](https://github.com/ues-sahiwal/ues-brand-assets) |
+
+---
+
+## 📋 Flagship Programs & Events
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ› ï¸^O Hands-on Tech & Dev Sprints
-Practical bootcamps taking students from Ground Zero to practical software development. Covers Git, collaborative version control, open source, and building web/AI products.
+### 🏛️ Annual Startup Summit 2026
+Our flagship annual gathering at the **Main Auditorium, University of Sahiwal** (Nov 24, 2026). Features keynote addresses from national ecosystem leaders, interactive panel discussions, and a high-stakes student venture showcase.
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ’¡ Venture Incubation Tracks
-Structured pathways guiding student teams through ideation, market validation, MVP creation, and commercial launch with founder mentorship.
+### 🛠️ Developer Sprints & "Git Ground Zero"
+Practical workshops helping students master collaborative version control, open-source pull requests, and navigating verification for the **GitHub Student Developer Pack** without institutional student email barriers.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### âš¡ Intra-University Hackathons
-High-energy, cross-department build marathons where engineers, designers, and business strategists team up to solve problems and demo live in 48 hours.
+### 💡 4-Week Venture Incubation Track
+A guided sprint taking cross-departmental student teams through customer discovery, problem-solution fit, MVP prototyping, unit economics, and pitch deck preparation.
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸŽ™ï¸^O Founder Talks & Industry Panels
-Interactive masterclasses with entrepreneurs, freelancers, tech leads, and alumni sharing real-world playbooks on client acquisition, remote careers, and startup growth.
+### ⚡ Intra-Campus Hackathons
+High-energy, 48-hour multidisciplinary build marathons where developers, designers, and business strategists collaborate under real-time constraints to build working solutions.
 
 </td>
 </tr>
@@ -85,67 +107,99 @@ Interactive masterclasses with entrepreneurs, freelancers, tech leads, and alumn
 
 ---
 
-## ðŸ—ºï¸^O Roadmap (2026â€“2027)
+## 🗺️ Roadmap (2026–2027)
 
 ```mermaid
 flowchart LR
-    P1["Phase 1: Foundation\nâ€¢ Core Recruitment\nâ€¢ GitHub Org Setup\nâ€¢ Git Ground Zero Workshop"] --> P2["Phase 2: Skill Sprints\nâ€¢ 4-Week Build Sprint\nâ€¢ Open Source PR Drive\nâ€¢ Pack Verification Hub"]
-    P2 --> P3["Phase 3: Momentum\nâ€¢ Intra-Campus Hackathon\nâ€¢ Industry Speaker Series\nâ€¢ Pitch Prep Bootcamps"]
-    P3 --> P4["Phase 4: Showcase\nâ€¢ Annual Demo Day\nâ€¢ Venture Showcase\nâ€¢ Talent Scout Pipeline"]
+    P1["Phase 1: Foundation\n• Core Identity & Brand Suite\n• GitHub Org & Web Portal\n• Git Ground Zero Workshop"] --> P2["Phase 2: Incubation\n• 4-Week Venture Sprint\n• Student Pack Verification\n• Cross-Dept PR Drive"]
+    P2 --> P3["Phase 3: Momentum\n• Annual Startup Summit\n• Intra-Campus Hackathon\n• Founder Masterclass Series"]
+    P3 --> P4["Phase 4: Scale\n• Annual Demo Day\n• Regional Startup Showcase\n• Cohort 2027 Transition"]
 ```
 
 | Phase | Timeline | Focus Area | Core Deliverables |
 | :--- | :--- | :--- | :--- |
-| **Phase 1: Foundation** | Q1 | Community Infrastructure | Launch organization hub, onboard founding team, deliver *Git Zero to Hero* workshop. |
-| **Phase 2: Skill Sprints** | Q2 | Technical & Business Depth | 4-week product sprint, first contribution drive, student developer pack onboarding. |
-| **Phase 3: Momentum** | Q3 | High-Impact Campus Events | Campus-wide Hackathon, venture pitching competition, external industry panels. |
-| **Phase 4: Showcase** | Q4 | Incubation & Demo Day | Student Demo Day, seed showcase for student projects, annual society transition. |
+| **Phase 1: Foundation** | Q1–Q2 2026 | Infrastructure & Identity | Launch UES brand suite, deploy official portal, onboard founding cohort, deliver *Git Ground Zero* bootcamp. |
+| **Phase 2: Incubation** | Q2–Q3 2026 | Technical & Business Depth | 4-week venture incubation track, GitHub Student Pack verification support, first open-source contribution drive. |
+| **Phase 3: Momentum** | Q3–Q4 2026 | High-Impact Campus Events | Host the **Annual Startup Summit 2026**, run 48-hour campus hackathon, and deliver external industry founder panels. |
+| **Phase 4: Scale** | Q4 2026–2027 | Ecosystem Demo & Growth | Student Venture Demo Day, commercial pre-seed pipeline, executive council succession for Cohort 2027. |
 
 ---
 
-## ðŸ¤^] Community Roles
+## 🤝 Leadership & Governance
 
-* **Core Team & Leads:** Drive operations, event execution, partnerships, and society governance.
-* **Project Maintainers:** Oversee organization repositories, review pull requests, and mentor newcomers.
-* **General Members & Fellows:** Attend workshops, collaborate in cross-functional teams, and build public portfolios.
+UES operates under the institutional guidance of the **Directorate of Student Affairs (DSA)** at the University of Sahiwal, driven by student leads and multidisciplinary faculty advisors.
+
+```
+               ┌──────────────────────────────────────────────┐
+               │         Founder & Executive Board            │
+               │  Ashar Iftikhar (President) • VP Operations  │
+               └──────────────────────┬───────────────────────┘
+                                      │
+               ┌──────────────────────▼───────────────────────┐
+               │           Functional Directors               │
+               │  Technical Programs • Incubation & Strategy  │
+               │         Campus Affairs • Design & Media      │
+               └──────────────────────┬───────────────────────┘
+                                      │
+               ┌──────────────────────▼───────────────────────┐
+               │          General Cohort & Fellows            │
+               │  Venture Builders • Developers • Designers   │
+               └──────────────────────────────────────────────┘
+```
+
+* **Founder & President:** Ashar Iftikhar (*BS Computer Science*)
+* **Institutional Governance:** Directorate of Student Affairs (DSA), University of Sahiwal
+* **Faculty Advisory:** Faculty of Computing & Information Technology • Faculty of Economics & Management Sciences
 
 ---
 
-## â^]“ FAQ
+## 🎨 Official Brand Palette
 
-**What is UES?**
-UES stands for **UOSahiwal Entrepreneurship Society** â€” the official student-led entrepreneurship and innovation society of the University of Sahiwal, Punjab, Pakistan.
-
-**What does UES do?**
-UES organizes workshops, hackathons, venture incubation tracks, and founder talks to help students build entrepreneurial and technical skills.
-
-**Who can join UES?**
-Any student of the University of Sahiwal across any discipline â€” Computing, Management Sciences, Humanities, and more. No prior experience is required.
-
-**Where is UES located?**
-UES is based at the University of Sahiwal, Sahiwal, Punjab, Pakistan.
+| Token | Swatch | HEX | RGB | Role |
+| :--- | :---: | :---: | :---: | :--- |
+| **UES Primary Navy** | `■` | `#0A1F44` | `rgb(10, 31, 68)` | Institutional authority, primary backgrounds & text |
+| **UES Growth Gold** | `■` | `#F5B301` | `rgb(245, 179, 1)` | Ascending opportunity, growth arrows, highlights & badges |
+| **UES Midnight Navy** | `■` | `#051024` | `rgb(5, 16, 36)` | Deep UI surfaces & radial vignette backgrounds |
+| **UES Pure White** | `■` | `#FFFFFF` | `rgb(255, 255, 255)` | Primary letterforms (`U`, `E`, `S`) & dark-mode text |
 
 ---
 
-## ðŸš€ Get Involved
+## 💬 Frequently Asked Questions (FAQ)
 
-We follow an open, collaborative standard. Getting involved takes just three steps:
+**What is UES?**  
+UES stands for **UOSahiwal Entrepreneurship Society** — the premier student-led venture and technology society at the University of Sahiwal, Punjab, Pakistan.
 
-1. **â­^P Follow & Star:** Star our repositories to stay updated with codebases, workshop materials, and templates.
-2. **ðŸ’¬ Engage in Discussions:** Connect with fellow students in repository discussions, suggest workshop topics, or pitch an idea.
-3. **ðŸ› ï¸^O Make Your First Contribution:** Check out our open issues tagged `good first issue` to start contributing.
+**What does UES do?**  
+We organize practical developer bootcamps, intra-university hackathons, 4-week startup incubation cohorts, and industry masterclasses to help students turn ideas into launch-ready ventures.
 
-> ðŸŽ“ **Zero Barrier to Entry:**
-> You don't need prior coding experience or a business degree to join. If you have curiosity and drive, you have a place here.
+**Who can join UES?**  
+Any currently enrolled student at the University of Sahiwal across all departments — Computer Science, Business Administration, Economics, Mathematics, English, and more. Zero prior startup or coding experience is required.
+
+**How do I get started?**  
+Star our repositories, attend our hands-on workshops, and connect with us on Instagram at [`@ues.sahiwal`](https://instagram.com/ues.sahiwal).
+
+---
+
+## 🚀 Get Involved
+
+We maintain a zero-barrier, merit-first community culture. You do not need prior coding experience or a business degree to take part:
+
+1. **⭐ Star & Watch Our Repositories:** Keep up with codebases, workshop curricula, and starter kits across the organization.
+2. **📱 Connect on Social:** Follow our official updates and event drops on Instagram at [`@ues.sahiwal`](https://instagram.com/ues.sahiwal).
+3. **🛠️ Make Your First Contribution:** Submit ideas, participate in issues tagged `good first issue`, and join our active build sessions.
 
 ---
 
 <div align="center">
 
-**UES â€” UOSahiwal Entrepreneurship Society**
-*University of Sahiwal â€” Sahiwal, Punjab, Pakistan*
-ðŸ“§ Contact: [ashiriftikharofficial@gmail.com](mailto:ashiriftikharofficial@gmail.com) â€¢ ðŸŒ^P GitHub: [github.com/ues-sahiwal](https://github.com/ues-sahiwal)
+<img src="https://raw.githubusercontent.com/ues-sahiwal/ues-brand-assets/main/03-logos/icon-square/ues-icon-square.svg" alt="UES Emblem" width="48" height="48" />
 
-<sub>Built with passion by students, for students.</sub>
+### UOSahiwal Entrepreneurship Society (UES)
+*Empowering Student Founders • University of Sahiwal, Pakistan*
+
+📧 **Email:** [ashar.iftikhar@uosahiwal.edu.pk](mailto:ashar.iftikhar@uosahiwal.edu.pk)  
+📷 **Instagram:** [@ues.sahiwal](https://instagram.com/ues.sahiwal) • 🌐 **GitHub:** [github.com/ues-sahiwal](https://github.com/ues-sahiwal)
+
+<sub>© 2026 UOSahiwal Entrepreneurship Society. Built by students, for students.</sub>
 
 </div>
