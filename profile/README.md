@@ -10,7 +10,7 @@
 [![University](https://img.shields.io/badge/University-Sahiwal-1f883d?style=for-the-badge&logo=graduation-cap)](https://github.com/ues-sahiwal)
 [![Focus](https://img.shields.io/badge/Focus-Entrepreneurship%20â€¢%20Innovation%20â€¢%20Technology-d97706?style=for-the-badge)](https://github.com/ues-sahiwal)
 
-![UES — UOSahiwal Entrepreneurship Society logo](https://avatars.githubusercontent.com/u/354645760?v=4&s=400)
+<img src="logo/banner.svg" alt="UES — UOSahiwal Entrepreneurship Society banner" width="100%" />
 
 **THINK. BUILD. LAUNCH.** â€” *Entrepreneurship â€¢ Innovation â€¢ Technology*
 
