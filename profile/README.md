@@ -1,60 +1,76 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-repo-banner.svg" alt="UOSahiwal Entrepreneurship Society (UES)" width="100%" />
+  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-repo-banner.svg" alt="UOSahiwal Entrepreneurship Society" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://uosahiwal.edu.pk"><img src="https://img.shields.io/badge/University-University%20of%20Sahiwal-0A1F44?style=for-the-badge" alt="University of Sahiwal" /></a>
-  <a href="https://github.com/ues-sahiwal"><img src="https://img.shields.io/badge/Community-Student--Led-0A1F44?style=for-the-badge&logo=github&logoColor=F5B301" alt="Student-Led" /></a>
-  <a href="https://instagram.com/ues.sahiwal"><img src="https://img.shields.io/badge/Instagram-@ues.sahiwal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+# UOSahiwal Entrepreneurship Society
 
-<p align="center">
-  <b>THINK &bull; BUILD &bull; LAUNCH</b><br/>
-  <i>The premier student-led entrepreneurship, venture incubation, and technology ecosystem at the University of Sahiwal.</i>
-</p>
+The student-led venture incubation and applied software engineering collective at the University of Sahiwal.
 
 ---
 
-### 🎯 About UES
+## Mandate
 
-The **UOSahiwal Entrepreneurship Society (UES)** is a cross-disciplinary campus community dedicated to empowering student founders, developers, and innovators. We bridge academic study with real-world startup methodologies, connecting ambitious students across all departments with modern technology, venture mentors, and practical building experience.
+University students possess immense intellectual drive, but traditional coursework often isolates learning into theoretical silos without distributed team workflows or product execution.
 
----
-
-### ⚡ What We Do
-
-- **🚀 Venture Incubation:** Guiding student teams from raw concepts through market discovery, customer validation, and investor-ready pitch decks.
-- **💡 Product Innovation:** Applying design thinking and rapid prototyping to solve real-world problems across campus and regional commerce.
-- **🤖 Technical Sprints:** Hands-on developer workshops covering collaborative Git workflows, open source, and full-stack software development.
-- **🌐 Ecosystem Access:** Direct masterclasses and panels with proven startup founders, technology leads, and university alumni.
+The **UOSahiwal Entrepreneurship Society (UES)** formalizes the campus builder community. We provide the operational infrastructure, technical workshops, and mentorship required to transition student projects from local files into tested open-source repositories and sustainable ventures.
 
 ---
 
-### 🏛️ Flagship Campus Initiatives
+## Core Pillars
 
-- **Annual Startup Summit:** Keynote addresses, panel discussions, and student venture showcases at the Main Auditorium, University of Sahiwal.
-- **Developer Sprints & "Git Ground Zero":** Hands-on bootcamps teaching modern collaborative version control and GitHub workflows.
-- **Intra-Campus Hackathons:** 48-hour multidisciplinary build marathons where developers, designers, and strategists ship working solutions.
-- **Founder Masterclasses:** Interactive sessions with industry entrepreneurs on freelancing, startup execution, and technology leadership.
-
----
-
-### 🤝 Inclusive Community
-
-Innovation does not belong to a single department. Whether your background is in **Computer Science**, **Business Administration**, **Economics**, **Mathematics**, or **Humanities**, UES provides the platform to build, lead, and scale. **Zero prior coding or startup experience is required.**
+| Practice | Focus | Delivery |
+| :--- | :--- | :--- |
+| **Venture Incubation** | Early-stage concept validation | Discovery sprints, market validation, and pitch preparation for student founders. |
+| **Applied Engineering** | Distributed software workflows | Version control with Git, feature branching, code reviews, and automated CI pipelines. |
+| **Developer Access** | Institutional tooling onboarding | Guidance for navigating manual student verification for GitHub Student Developer Packs and cloud credits. |
+| **Executive Panels** | Practical industry insight | Direct masterclasses with software engineers, venture founders, and university alumni. |
 
 ---
 
-### 📬 Connect With Us
+## Active Campus Initiatives
 
-- 📷 **Instagram:** [@ues.sahiwal](https://instagram.com/ues.sahiwal)
-- 🌐 **GitHub Organization:** [github.com/ues-sahiwal](https://github.com/ues-sahiwal)
-- 📧 **President & Founder:** Ashar Iftikhar ([ashar.iftikhar@uosahiwal.edu.pk](mailto:ashar.iftikhar@uosahiwal.edu.pk))
-- 📍 **Campus:** University of Sahiwal, Sahiwal, Punjab, Pakistan
+### Git Ground Zero
+An intensive two-hour hands-on bootcamp equipping attendees with authenticated local environments (SSH/PAT), terminal fluency, branch isolation, and their first merged Pull Request on an organization sandbox.
+
+### Annual Startup Summit
+A multi-track gathering hosted at the University of Sahiwal Main Auditorium, featuring keynote addresses, panel discussions on regional commerce, and live venture pitches before industry judges.
+
+### Intra-Campus Hackathons
+Forty-eight-hour cross-disciplinary sprints where software developers, economists, and designers collaborate to build and ship functioning prototypes addressing local community problems.
+
+### First Contribution Sandbox
+Dedicated practice repositories giving incoming students a zero-barrier environment to practice opening issues, participating in peer code reviews, and submitting documentation fixes.
+
+---
+
+## Cross-Disciplinary Cohort
+
+UES is open to all enrolled students across the University of Sahiwal. Innovation is not the domain of any single academic department:
+
+- **Computing and IT:** System architecture, software implementation, and open-source contribution.
+- **Management and Business:** Financial modeling, market analysis, and product positioning.
+- **Economics and Mathematics:** Quantitative research, algorithmic optimization, and unit economics.
+- **Humanities and Social Sciences:** User research, ethical communication, and community operations.
+
+Prior programming or business experience is not required. Commitment and curiosity are the only prerequisites.
+
+---
+
+## Directory and Channels
+
+| Channel | Reference |
+| :--- | :--- |
+| **Institution** | University of Sahiwal, Sahiwal, Punjab, Pakistan |
+| **Leadership** | Ashar Iftikhar, President ([ashar.iftikhar@uosahiwal.edu.pk](mailto:ashar.iftikhar@uosahiwal.edu.pk)) |
+| **Code Repositories** | [github.com/ues-sahiwal](https://github.com/ues-sahiwal) |
+| **Community Updates** | [instagram.com/ues.sahiwal](https://instagram.com/ues.sahiwal) |
+| **Parent Portal** | [uosahiwal.edu.pk](https://uosahiwal.edu.pk) |
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-icon-square.svg" alt="UES Emblem" width="44" height="44" /><br/>
-  <sub>&copy; 2026 UOSahiwal Entrepreneurship Society (UES) &bull; University of Sahiwal</sub>
+  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-icon-square.svg" alt="UES Emblem" width="40" height="40" />
+</p>
+<p align="center">
+  <sub>University of Sahiwal Entrepreneurship Society &mdash; Official Campus Organization Hub</sub>
 </p>
