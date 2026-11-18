@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ›ï¸ UES â€” UOSahiwal Entrepreneurship Society
+# ðŸ^O›ï¸^O UES â€” UOSahiwal Entrepreneurship Society
 
 ### UNIVERSITY OF SAHIWAL Â· SAHIWAL, PUNJAB, PAKISTAN
 
@@ -10,7 +10,7 @@
 [![University](https://img.shields.io/badge/University-Sahiwal-1f883d?style=for-the-badge&logo=graduation-cap)](https://github.com/ues-sahiwal)
 [![Focus](https://img.shields.io/badge/Focus-Entrepreneurship%20â€¢%20Innovation%20â€¢%20Technology-d97706?style=for-the-badge)](https://github.com/ues-sahiwal)
 
-![UES Logo](logo/ues-logo-primary.svg)
+![UES — UOSahiwal Entrepreneurship Society logo](https://avatars.githubusercontent.com/u/354645760?v=4&s=400)
 
 **THINK. BUILD. LAUNCH.** â€” *Entrepreneurship â€¢ Innovation â€¢ Technology*
 
@@ -19,11 +19,11 @@
 **UES** is a cross-disciplinary, student-led entrepreneurship and innovation community at the **University of Sahiwal** in Punjab, Pakistan. We unite students from Computing, Management Sciences, and Humanities with the modern tech, venture, and business ecosystem.
 
 [ðŸŽ¯ Mission](#-our-mission) â€¢
-[ðŸ›ï¸ What We Do](#-what-we-do) â€¢
+[ðŸ^O›ï¸^O What We Do](#-what-we-do) â€¢
 [ðŸ“‹ Flagship Programs](#-flagship-programs) â€¢
-[ðŸ—ºï¸ Roadmap](#-roadmap-20262027) â€¢
-[ðŸ¤ Roles](#-community-roles) â€¢
-[â“ FAQ](#-faq) â€¢
+[ðŸ—ºï¸^O Roadmap](#-roadmap-20262027) â€¢
+[ðŸ¤^] Roles](#-community-roles) â€¢
+[â^]“ FAQ](#-faq) â€¢
 [ðŸš€ Get Involved](#-get-involved)
 
 </div>
@@ -36,7 +36,7 @@
 
 ---
 
-## ðŸ›ï¸ What We Do
+## ðŸ^O›ï¸^O What We Do
 
 We believe innovation doesn't belong to a single department. Whether you study **Business Administration**, **Computer Science**, **English**, **Economics**, or **Mathematics**, there is a place for you to build and lead.
 
@@ -46,7 +46,7 @@ We believe innovation doesn't belong to a single department. Whether you study *
 | ðŸ’¡ | **Innovation** | **Solve Problems & Develop Ideas**<br/>Apply design thinking, agile execution, and rapid prototyping to campus and regional challenges. |
 | ðŸ¤– | **Technology** | **Explore AI, Software & Emerging Tech**<br/>Demystify code, version control, AI systems, full-stack tools, and digital product workflows. |
 | ðŸŽ¤ | **Professional Skills** | **Communication, Sales & Leadership**<br/>Master public speaking, client negotiation, team management, and professional networking. |
-| ðŸŒ | **Opportunities** | **Connect with the Ecosystem**<br/>Bridge the gap with industry founders, alumni mentors, investor networks, and global programs. |
+| ðŸŒ^P | **Opportunities** | **Connect with the Ecosystem**<br/>Bridge the gap with industry founders, alumni mentors, investor networks, and global programs. |
 
 ---
 
@@ -56,7 +56,7 @@ We believe innovation doesn't belong to a single department. Whether you study *
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ› ï¸ Hands-on Tech & Dev Sprints
+### ðŸ› ï¸^O Hands-on Tech & Dev Sprints
 Practical bootcamps taking students from Ground Zero to practical software development. Covers Git, collaborative version control, open source, and building web/AI products.
 
 </td>
@@ -76,7 +76,7 @@ High-energy, cross-department build marathons where engineers, designers, and bu
 </td>
 <td width="50%" valign="top">
 
-### ðŸŽ™ï¸ Founder Talks & Industry Panels
+### ðŸŽ™ï¸^O Founder Talks & Industry Panels
 Interactive masterclasses with entrepreneurs, freelancers, tech leads, and alumni sharing real-world playbooks on client acquisition, remote careers, and startup growth.
 
 </td>
@@ -85,7 +85,7 @@ Interactive masterclasses with entrepreneurs, freelancers, tech leads, and alumn
 
 ---
 
-## ðŸ—ºï¸ Roadmap (2026â€“2027)
+## ðŸ—ºï¸^O Roadmap (2026â€“2027)
 
 ```mermaid
 flowchart LR
@@ -103,7 +103,7 @@ flowchart LR
 
 ---
 
-## ðŸ¤ Community Roles
+## ðŸ¤^] Community Roles
 
 * **Core Team & Leads:** Drive operations, event execution, partnerships, and society governance.
 * **Project Maintainers:** Oversee organization repositories, review pull requests, and mentor newcomers.
@@ -111,7 +111,7 @@ flowchart LR
 
 ---
 
-## â“ FAQ
+## â^]“ FAQ
 
 **What is UES?**
 UES stands for **UOSahiwal Entrepreneurship Society** â€” the official student-led entrepreneurship and innovation society of the University of Sahiwal, Punjab, Pakistan.
@@ -131,9 +131,9 @@ UES is based at the University of Sahiwal, Sahiwal, Punjab, Pakistan.
 
 We follow an open, collaborative standard. Getting involved takes just three steps:
 
-1. **â­ Follow & Star:** Star our repositories to stay updated with codebases, workshop materials, and templates.
+1. **â­^P Follow & Star:** Star our repositories to stay updated with codebases, workshop materials, and templates.
 2. **ðŸ’¬ Engage in Discussions:** Connect with fellow students in repository discussions, suggest workshop topics, or pitch an idea.
-3. **ðŸ› ï¸ Make Your First Contribution:** Check out our open issues tagged `good first issue` to start contributing.
+3. **ðŸ› ï¸^O Make Your First Contribution:** Check out our open issues tagged `good first issue` to start contributing.
 
 > ðŸŽ“ **Zero Barrier to Entry:**
 > You don't need prior coding experience or a business degree to join. If you have curiosity and drive, you have a place here.
@@ -144,7 +144,7 @@ We follow an open, collaborative standard. Getting involved takes just three ste
 
 **UES â€” UOSahiwal Entrepreneurship Society**
 *University of Sahiwal â€” Sahiwal, Punjab, Pakistan*
-ðŸ“§ Contact: [ashiriftikharofficial@gmail.com](mailto:ashiriftikharofficial@gmail.com) â€¢ ðŸŒ GitHub: [github.com/ues-sahiwal](https://github.com/ues-sahiwal)
+ðŸ“§ Contact: [ashiriftikharofficial@gmail.com](mailto:ashiriftikharofficial@gmail.com) â€¢ ðŸŒ^P GitHub: [github.com/ues-sahiwal](https://github.com/ues-sahiwal)
 
 <sub>Built with passion by students, for students.</sub>
 
