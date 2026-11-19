@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-repo-banner.svg" alt="UOSahiwal Entrepreneurship Society" width="100%" />
 </p>
 
-# UOSahiwal Entrepreneurship Society
+# UES — UOSahiwal Entrepreneurship Society
 
 The student-led venture incubation and applied software engineering collective at the University of Sahiwal.
 
