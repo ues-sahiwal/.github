@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-repo-banner.svg" alt="UOSahiwal Entrepreneurship Society" width="100%" />
+  <img src="https://raw.githubusercontent.com/ues-sahiwal/.github/main/profile/assets/ues-repo-banner.svg?v=2" alt="UOSahiwal Entrepreneurship Society" width="100%" />
 </p>
 
 <h3 align="center">Where campus ideas leave the notebook and ship.</h3>
